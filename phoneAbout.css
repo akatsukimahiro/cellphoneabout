@@ -52,12 +52,12 @@ text-decoration: none;
   text-align: center;
   /* background-color: black; */
   width: 20%;
-  height: 52%;
+  height: %;
   position: relative;
   display: inline-block;
   border: solid 3px #555;
   box-sizing: border-box;
-  padding-top: 30px;
+  
   
 }
 .contact-form a{
