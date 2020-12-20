@@ -25,10 +25,8 @@ text-decoration: none;
    color:white;
 }
 .phone-container{
-    /* background-color: black; */
     text-align: center;
     width: 20%;
-    /* margin-left: 760px; */
     font-size: 50px;
     padding-top: 70px;
    
@@ -50,13 +48,12 @@ text-decoration: none;
    color:white;
    font-size: 30px;
   text-align: center;
-  /* background-color: black; */
   width: 20%;
   height: 40%;
   display: inline-block;
   border: solid 3px #555;
   box-sizing: border-box;
-  /* padding-top: 20px; */
+  padding-top: 20px;
   
 }
 .contact-form a{
