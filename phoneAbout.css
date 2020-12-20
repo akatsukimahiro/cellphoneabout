@@ -1,0 +1,71 @@
+body{
+    margin: 0%;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    
+}
+.top-wrapper{
+     height: 940px;
+     background-image: url(mika-baumeister-DsJw-V-Wz-4-unsplash.jpg);
+     background-size :cover ;
+    margin: 0%;
+    display: flex;
+  
+}
+.main-container{
+    padding-left: 41.5%;
+}
+.num-container{
+   font-size: 50px;
+   padding:0 20px;
+  
+   
+}
+.num{
+text-decoration: none;
+   color:white;
+}
+.phone-container{
+    /* background-color: black; */
+    text-align: center;
+    width: 20%;
+    /* margin-left: 760px; */
+    font-size: 50px;
+    padding-top: 70px;
+   
+}
+.phone-container a{
+ color: white;
+ text-decoration: none;
+ 
+ 
+}
+.phone-container a:hover{
+    opacity: 0.7;
+}
+.font-as{
+    padding-top: 20px;
+}
+.contact-form{
+   margin:150px 70px 0 ;
+   color:white;
+   font-size: 30px;
+  text-align: center;
+  /* background-color: black; */
+  width: 20%;
+  height: 40%;
+  display: inline-block;
+  border: solid 3px #555;
+  box-sizing: border-box;
+  /* padding-top: 20px; */
+  
+}
+.contact-form a{
+  color:black;
+  text-decoration: none;
+
+}
+.contact-form a:hover{
+  opacity:0.7;
+}
+   
+
